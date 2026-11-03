@@ -12,3 +12,4 @@ python-docx==1.2.0
 reportlab==5.0.1
 matplotlib==3.11.2
 tabulate==0.10.0
+six==1.17.0   # imported by wntr but not declared as its dependency
